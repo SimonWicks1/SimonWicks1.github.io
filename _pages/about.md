@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 
 ---
-Test 2
+Test 3
 Hi, welcome to my personal website! I am currently a second-year M.Phil. student in Robotics and Autonomous Systems at the Hong Kong University of Science and Technology (Guangzhou) under the supervision of <a href="https://personal.hkust-gz.edu.cn/junma/people-page.html">Prof. Jun MA</a>. I hold a Bachelor's degree in Electronic and Information Engineering from Harbin Institute of Technology (Shenzhen). 
 
 <b>I am currently seeking PhD opportunities that align with my research interests in 2025, with the goal of continuing my studies and making meaningful contributions to the field.</b>

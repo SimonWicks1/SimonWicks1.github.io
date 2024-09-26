@@ -1,4 +1,16 @@
 ---
+title: "Integrated Intention Prediction and Decision-Making with Spectrum Attention Net and Proximal Policy Optimization"
+collection: publications
+category: conferences
+# permalink: /publication/2024-02-17-paper-title-number-4
+excerpt: 'This paper presents an integrated intention prediction and decision-making framework for autonomous driving. A spectrum attention net predicts surrounding vehicle intentions efficiently by analyzing frequency components, while the proximal policy optimization (PPO) algorithm addresses non-stationary issues with policy updates. Joint learning integrates both modules, and experiments demonstrate superior performance in safety, efficiency, and success rates compared to deep reinforcement learning baselines.'
+date: 2024-07-10
+venue: ' The 27th IEEE International Conference on Intelligent Transportation Systems. 24 Sep- 27 Sep 2024 | Edmonton, Canada'
+image_path: '/images/Intention_frequency.png'
+# paperurl: 'https://ieeexplore.ieee.org/document/9456499'
+# citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+---
+<!-- ---
 title: "Putn: A plane-fitting based uneven terrain navigation framework"
 collection: publications
 category: conferences
@@ -9,7 +21,7 @@ venue: 'International Conference on Intelligent Robots and Systems (IROS) · IRO
 image_path: '/images/IROS22.png'
 # paperurl: 'https://ieeexplore.ieee.org/document/9456499'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
----
+--- -->
 
 <div>
     <a href="https://ieeexplore.ieee.org/abstract/document/9981038" target="_blank">Paper Link</a>
