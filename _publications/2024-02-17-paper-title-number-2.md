@@ -1,5 +1,5 @@
 ---
-title: "Fast-robust book information extraction system for automated intelligence library"
+title: "Integrated Intention Prediction and Decision-Making with Spectrum Attention Net and Proximal Policy Optimization"
 collection: publications
 category: conferences
 # permalink: /publication/2024-02-17-paper-title-number-4
