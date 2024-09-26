@@ -26,7 +26,7 @@ redirect_from:
 <body>
     <div class="pdf-container">
         <!-- 使用iframe嵌入PDF文件 -->
-        <iframe src="/files/XIEYusenCV.pdf" width="100%" height="100%" style="border: none;"></iframe>
+        <iframe src="/files/CV_Xiao ZHOU.pdf" width="100%" height="100%" style="border: none;"></iframe>
     </div>
 </body>
 </html>
