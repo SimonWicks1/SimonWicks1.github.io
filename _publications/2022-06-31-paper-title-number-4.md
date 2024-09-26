@@ -6,7 +6,7 @@ category: conferences
 excerpt: 'This paper presents an integrated intention prediction and decision-making framework for autonomous driving. A spectrum attention net predicts surrounding vehicle intentions efficiently by analyzing frequency components, while the proximal policy optimization (PPO) algorithm addresses non-stationary issues with policy updates. Joint learning integrates both modules, and experiments demonstrate superior performance in safety, efficiency, and success rates compared to deep reinforcement learning baselines.'
 date: 2024-07-10
 venue: ' International Conference on Intelligent Robots and Systems (IROS) · IROS 2022. 23 October- 27 October 2024 | Kyoto, Japan'
-image_path: '/images/Intention_frequency.png'
+image_path: '/images/IROS22.png'
 # paperurl: 'https://ieeexplore.ieee.org/document/9456499'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
