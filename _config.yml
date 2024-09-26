@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xiao ZHOU's Personal Website"
+title                    : "Xiao ZHOU"
 title_separator          : "-"
 name                     : &name "Xiao ZHOU"
 description              : &description "SLAM, Computer Vision, Autonomous Driving"
