@@ -8,34 +8,34 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yusen XIE's Personal Website"
+title                    : "Xiao ZHOU's Personal Website"
 title_separator          : "-"
-name                     : &name "Yusen XIE"
+name                     : &name "Xiao ZHOU"
 description              : &description "SLAM, Computer Vision, Autonomous Driving"
-url                      : https://xieyuser.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://simonwicks1.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xieyuser/xieyuser.github.io"
+repository               : "simonwicks1/simonwicks1.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  hoveravatar      : "xieyuser.jpg"
-  avatar           : "xieyuser2.jpg"
-  name             : "Yusen XIE"
+  hoveravatar      : "XiaoZHOU0.jpg"
+  avatar           : "XiaoZHOU1.jpg"
+  name             : "Xiao ZHOU"
   pronouns         : "he/him"
   bio              : "SLAM, Computer Vision, Autonomous Driving"
   location         : "Guangzhou, China"
   employer         : "HKUSTGZ"
-  uri              : https://xieyuser.github.io
-  email            : "yxie827@connect.hkust-gz.edu.cn" 
+  uri              : https://simonwicks1.github.io/
+  email            : "zhou.xiao.hit@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com.pr/citations?hl=en&pli=1&user=7JR7SVAAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=6MYp4voAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-6735-2866"
+  orcid            : # "https://orcid.org/0000-0002-6735-2866"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "xieyuser"
+  github           : "simonwicks1"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
