@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 # permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'A game-theoretic driver modeling and decision-making framework with level-k reasoning for autonomous vehicles is proposed. A temporal-spatial attention-based deep Q-learning (TSA-DQN) algorithm is developed to estimate the decision level of surrounding vehicles and optimize ego vehicle’s decision. Simulations demonstrate improved safety, efficiency, and success rates over baselines in various driving scenarios. Real-world testing further confirms the algorithm's practical feasibility.'
-date: 2024-09
+date: 2024-09-25
 venue: 'IEEE TRANSACTIONS ON INTELLIGENT VEHICLES'
 # slidesurl: 'https://ieeexplore.ieee.org/document/9770363'
 image_path: '/images/Level_k.png'
