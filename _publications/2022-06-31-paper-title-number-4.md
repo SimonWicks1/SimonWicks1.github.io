@@ -3,7 +3,7 @@ title: "Putn: A plane-fitting based uneven terrain navigation framework"
 collection: publications
 category: conferences
 # permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper presents an integrated intention prediction and decision-making framework for autonomous driving. A spectrum attention net predicts surrounding vehicle intentions efficiently by analyzing frequency components, while the proximal policy optimization (PPO) algorithm addresses non-stationary issues with policy updates. Joint learning integrates both modules, and experiments demonstrate superior performance in safety, efficiency, and success rates compared to deep reinforcement learning baselines.'
+excerpt: 'This paper proposes a Plane-Fitting based Uneven Terrain Navigation (PUTN) framework for autonomous ground robots in unstructured 3D environments. PUTN combines an improved Plane Fitting RRT* for sparse '
 date: 2024-07-10
 venue: ' International Conference on Intelligent Robots and Systems (IROS) · IROS 2022. 23 October- 27 October 2024 | Kyoto, Japan'
 image_path: '/images/IROS22.png'
