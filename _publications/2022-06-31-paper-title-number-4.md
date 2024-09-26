@@ -1,5 +1,5 @@
 ---
-title: "Integrated Intention Prediction and Decision-Making with Spectrum Attention Net and Proximal Policy Optimization"
+title: "Putn: A plane-fitting based uneven terrain navigation framework"
 collection: publications
 category: conferences
 # permalink: /publication/2024-02-17-paper-title-number-4
