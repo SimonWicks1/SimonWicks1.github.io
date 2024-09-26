@@ -24,7 +24,7 @@ For autonomous driving in highly dynamic environments, it is anticipated to pred
 ![Intention_frequency](/images/Intention_frequency.png)
 
 ## Presentation
-<video width="640" height="360" controls>
+<video width="800" height="450" controls>
   <source src="/files/ITSC_Oral.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
