@@ -10,18 +10,6 @@ image_path: '/images/IROS22.png'
 # paperurl: 'https://ieeexplore.ieee.org/document/9456499'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
-<!-- ---
-title: "Putn: A plane-fitting based uneven terrain navigation framework"
-collection: publications
-category: conferences
-# permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper proposes a Plane-Fitting based Uneven Terrain Navigation (PUTN) framework for autonomous ground robots in unstructured 3D environments. PUTN combines an improved Plane Fitting RRT* for sparse trajectory generation, Gaussian Process Regression for trajectory interpolation, and Nonlinear Model Predictive Control (NMPC) for local planning. Experiments demonstrate PUTN's robust, safe motion planning in uneven terrain, validated through real-world testing.'
-date: 2022-06-31
-venue: 'International Conference on Intelligent Robots and Systems (IROS) · IROS 2022. 23 October- 27 October 2024 | Kyoto, Japan'
-image_path: '/images/IROS22.png'
-# paperurl: 'https://ieeexplore.ieee.org/document/9456499'
-# citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
---- -->
 
 <div>
     <a href="https://ieeexplore.ieee.org/abstract/document/9981038" target="_blank">Paper Link</a>

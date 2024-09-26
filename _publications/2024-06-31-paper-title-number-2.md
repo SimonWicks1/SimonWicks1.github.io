@@ -3,7 +3,7 @@ title: "Reward-Driven Automated Curriculum Learning for Interaction-Aware Self-D
 collection: publications
 category: conferences
 # permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper introduces a reward-driven automated curriculum learning framework for self-driving at unsignalized intersections, addressing uncertainties in surrounding vehicles' intentions and quantities. A progressive curriculum and well-designed reward function improve policy exploration and sample efficiency. Experiments in Highway-Env and CARLA show superior success rates, robustness, and adaptability, validating the method's effectiveness in handling complex driving interactions.'
+excerpt: "This paper introduces a reward-driven automated curriculum learning framework for self-driving at unsignalized intersections, addressing uncertainties in surrounding vehicles' intentions and quantities. A progressive curriculum and well-designed reward function improve policy exploration and sample efficiency. Experiments in Highway-Env and CARLA show superior success rates, robustness, and adaptability, validating the method's effectiveness in handling complex driving interactions."
 date: 2024-06-31
 venue: 'International Conference on Intelligent Robots and Systems (IROS) · IROS 2024. 14 October- 18 October 2024 | Abu Dhabi, UAE'
 image_path: '/images/Curriculum Learning-IROS23.png'
