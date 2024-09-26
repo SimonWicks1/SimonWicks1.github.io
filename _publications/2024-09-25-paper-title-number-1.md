@@ -26,6 +26,13 @@ TSA-DQN algorithm is deployed to the real-world hardware platform to illustrate 
 ## Overview
 ![Level_k](/images/Level_k.png)
 
+## Hardware Experiments
+<video width="640" height="360" controls>
+  <source src="/files/TIV_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 <!-- ## Citation
 ```text
 
