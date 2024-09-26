@@ -6,9 +6,6 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-
-* National Scholarship for Graduate Students (0.2% Top)
-* Outstanding Graduates in Beijing (1% Top) 
-* Excellent Master's Degree Thesis (1% Top) 
-* First-class Academic Scholarship for the 2021-2022 academic year (10% Top)
-* Second-class Academic Scholarship for the 2020-2021 academic year (40% Top)
+* Excellent Graduation Thesis for Undergraduate Students, 2023 (10% Top) 
+* Outstanding Students 2020–2021, Harbin Institute of Technology (Shenzhen), 2021 (20% Top)
+* First prize in the College Students Mathematical Modeling Competitions, 2020 (10% Top)
