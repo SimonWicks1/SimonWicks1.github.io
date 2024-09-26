@@ -21,12 +21,6 @@ In this work, we present a reward-driven automated curriculum reinforcement lear
 ## Overview
 ![IROS23](/images/Curriculum Learning-IROS23.png)
 
-## Presentation
-<video width="640" height="360" controls>
-  <source src="/files/ITSC_Oral.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 
 ## Citation
 ```text
