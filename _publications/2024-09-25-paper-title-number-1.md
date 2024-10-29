@@ -12,9 +12,9 @@ image_path: '/images/Level_k.png'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-<!-- <div>
-    <a href="https://ieeexplore.ieee.org/document/9770363" target="_blank">Paper Link</a>
-</div> -->
+<div>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10700678" target="_blank">Paper Link</a>
+</div>
 
 ## Abstract
 The safe and efficient navigation of autonomous vehicles in complex traffic scenarios remains a significant challenge. One of the key impediments is the limited effectiveness of current methods in constructing driver models for surrounding vehicles (SVs) that capture diverse decision-making abilities. As
