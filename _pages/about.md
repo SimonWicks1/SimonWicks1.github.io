@@ -27,10 +27,10 @@ I am open to collaborating with people to explore the possibilities of reinforce
 
 News
 ===
-* [2024.09] Our paper "Game-Theoretic Driver Modeling and Decision-Making for Autonomous Driving with Temporal-Spatial Attention-Based Deep Q-Learning" has been accepted by <b>IEEE TRANSACTIONS ON INTELLIGENT VEHICLES</b>!
-* [2024.07] I attended <a href="https://sites.google.com/view/marl-school2024/home">the EPFL-ETHZ MARL Summer School</a> at Lausanne, Switzerland!
-* [2024.07] Our paper "Integrated Intention Prediction and Decision-Making with Spectrum Attention Net and Proximal Policy Optimization" has been accepted by <b>ITSC 2024</b>!
-* [2024.06] Our paper "Reward-Driven Automated Curriculum Learning for Interaction-Aware Self-Driving at Unsignalized Intersections" has been accepted by <b>IROS 2024</b>!
+* [2024.09] 🎉🎉 Our paper "Game-Theoretic Driver Modeling and Decision-Making for Autonomous Driving with Temporal-Spatial Attention-Based Deep Q-Learning" has been accepted by <b>IEEE TRANSACTIONS ON INTELLIGENT VEHICLES</b>!
+* [2024.07] 🎉🎉 I attended <a href="https://sites.google.com/view/marl-school2024/home">the EPFL-ETHZ MARL Summer School</a> at Lausanne, Switzerland!
+* [2024.07] 🎉🎉 Our paper "Integrated Intention Prediction and Decision-Making with Spectrum Attention Net and Proximal Policy Optimization" has been accepted by <b>ITSC 2024</b>!
+* [2024.06] 🎉🎉 Our paper "Reward-Driven Automated Curriculum Learning for Interaction-Aware Self-Driving at Unsignalized Intersections" has been accepted by <b>IROS 2024</b>!
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BxZ-CKuO9gVlhQ-hdBov2xZ1gMK9V9XKIhFKWr1q-nA&cl=ffffff&w=a"></script>
 
