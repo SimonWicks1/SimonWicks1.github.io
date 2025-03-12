@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 
 ---
-Hi, welcome to my personal website! I am currently a second-year M.Phil. student in Robotics and Autonomous Systems at the Hong Kong University of Science and Technology (Guangzhou) under the supervision of <a href="https://personal.hkust-gz.edu.cn/junma/people-page.html">Prof. Jun MA</a>. I hold a Bachelor's degree in Electronic and Information Engineering from Harbin Institute of Technology (Shenzhen). 
+Hi, welcome to my personal website! I am currently a visiting student at the <a href="https://www.epfl.ch/labs/sycamore/">Sycamore lab</a> at EPFL and part of the <a href="https://nccr-automation.ch/">NCCR Automation</a>. Concurrently, I am a second-year M.Phil. student in Robotics and Autonomous Systems at the Hong Kong University of Science and Technology (Guangzhou) under the supervision of <a href="https://personal.hkust-gz.edu.cn/junma/people-page.html">Prof. Jun MA</a>. I hold a Bachelor's degree in Electronic and Information Engineering from the Harbin Institute of Technology (Shenzhen). 
 
 <b>I am currently seeking PhD opportunities that align with my research interests in 2025, with the goal of continuing my studies and making meaningful contributions to the field.</b>
 
@@ -27,11 +27,11 @@ I am open to collaborating with people to explore the possibilities of reinforce
 
 News
 ===
+* [2024.12] 🎉🎉 I received the <a href="https://nccr-automation.ch/research-fellowship">NCCR Automation Fellowship</a> 2025!
 * [2024.09] 🎉🎉 Our paper "Game-Theoretic Driver Modeling and Decision-Making for Autonomous Driving with Temporal-Spatial Attention-Based Deep Q-Learning" has been accepted by <b>IEEE TRANSACTIONS ON INTELLIGENT VEHICLES</b>!
 * [2024.07] 🎉🎉 I attended <a href="https://sites.google.com/view/marl-school2024/home">the EPFL-ETHZ MARL Summer School</a> at Lausanne, Switzerland!
 * [2024.07] 🎉🎉 Our paper "Integrated Intention Prediction and Decision-Making with Spectrum Attention Net and Proximal Policy Optimization" has been accepted by <b>ITSC 2024</b>!
 * [2024.06] 🎉🎉 Our paper "Reward-Driven Automated Curriculum Learning for Interaction-Aware Self-Driving at Unsignalized Intersections" has been accepted by <b>IROS 2024</b>!
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BxZ-CKuO9gVlhQ-hdBov2xZ1gMK9V9XKIhFKWr1q-nA&cl=ffffff&w=a"></script>
-
 
