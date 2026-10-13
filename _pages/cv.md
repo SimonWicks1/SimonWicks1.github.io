@@ -7,26 +7,18 @@ redirect_from:
   - /resume
 ---
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PDF Viewer</title>
-    <!-- 这里可以添加CSS样式 -->
-    <style>
-        .pdf-container {
-            width: 100%;
-            height: 80vh; /* 视口高度的80% */
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-    </style>
-</head>
-<body>
-    <div class="pdf-container">
-        <!-- 使用iframe嵌入PDF文件 -->
-        <iframe src="/files/CV_Xiao ZHOU.pdf" width="100%" height="100%" style="border: none;"></iframe>
-    </div>
-</body>
-</html>
+<p><a href="/files/CV_Xiao ZHOU.pdf" target="_blank" class="btn">Download CV (PDF)</a></p>
+
+<style>
+    .pdf-container {
+        width: 100%;
+        height: 80vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+</style>
+
+<div class="pdf-container">
+    <iframe src="/files/CV_Xiao ZHOU.pdf" width="100%" height="100%" style="border: none;"></iframe>
+</div>

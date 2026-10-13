@@ -33,16 +33,15 @@ TSA-DQN algorithm is deployed to the real-world hardware platform to illustrate 
 </video>
 
 
-<!-- ## Citation
+## Citation
 ```text
-
-@ARTICLE{9770363,
-  author={Xie, Yusen and Deng, Lei and Sun, Ting and Fu, Yeyu and Li, Jian and Cui, Xinglong and Yin, Hanxi and Deng, Shuixin and Xiao, Junwei and Chen, Baohua},
-  journal={IEEE Robotics and Automation Letters}, 
-  title={A4LidarTag: Depth-Based Fiducial Marker for Extrinsic Calibration of Solid-State Lidar and Camera}, 
-  year={2022},
-  volume={7},
-  number={3},
-  pages={6487-6494}}
-
-``` -->
+@ARTICLE{zhou2025game,
+  author={Zhou, Xiao and Peng, Zengqi and Xie, Yusen and Liu, Ming and Ma, Jun},
+  journal={IEEE Transactions on Intelligent Vehicles}, 
+  title={Game-Theoretic Driver Modeling and Decision-Making for Autonomous Driving With Temporal-Spatial Attention-Based Deep Q-Learning}, 
+  year={2025},
+  volume={10},
+  number={7},
+  pages={4010-4025},
+  doi={10.1109/TIV.2024.3470910}}
+```

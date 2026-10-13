@@ -7,31 +7,40 @@ redirect_from:
   - /about.html
 
 ---
-Hi, welcome to my personal website! I am currently a visiting student at the <a href="https://www.epfl.ch/labs/sycamore/">Sycamore lab</a> at EPFL and part of the <a href="https://nccr-automation.ch/">NCCR Automation</a>. Concurrently, I am a second-year M.Phil. student in Robotics and Autonomous Systems at the Hong Kong University of Science and Technology (Guangzhou) under the supervision of <a href="https://personal.hkust-gz.edu.cn/junma/people-page.html">Prof. Jun MA</a>. I hold a Bachelor's degree in Electronic and Information Engineering from the Harbin Institute of Technology (Shenzhen). 
-
-<b>I am currently seeking PhD opportunities that align with my research interests in 2025, with the goal of continuing my studies and making meaningful contributions to the field.</b>
+Hi, welcome to my personal website! I am a D.Phil. student in Engineering Science at the <a href="https://www.ox.ac.uk/">University of Oxford</a>, where I am a member of the <a href="https://ori.ox.ac.uk/groups/goals">GOALS group</a> at the <a href="https://ori.ox.ac.uk/">Oxford Robotics Institute</a>, supervised by <a href="https://ori.ox.ac.uk/people/nick-hawes">Prof. Nick Hawes</a>. Before Oxford, I completed my M.Phil. in Robotics and Autonomous Systems at the Hong Kong University of Science and Technology (Guangzhou) under the supervision of <a href="https://personal.hkust-gz.edu.cn/junma/people-page.html">Prof. Jun MA</a>, and conducted my master's thesis research at the <a href="https://www.epfl.ch/labs/sycamore/">Sycamore Lab</a>, EPFL, with <a href="https://www.epfl.ch/labs/sycamore/professor-maryam-kamgarpour">Prof. Maryam Kamgarpour</a>, supported by the <a href="https://nccr-automation.ch/research-fellowship">NCCR Automation Fellowship</a>. I received my B.Eng. in Electronics and Information Engineering from the Harbin Institute of Technology (Shenzhen).
 
 Research Interests
 ===
-* Multi-Agent Reinforcement Learning
-* Multi-Agent Collaboration and Game
-* Decision-Making in Dynamic and Uncertain Environments
-* Safe Decision-Making Algorithms for Autonomous Vehicles
-* Large Language Models (LLMs) for Robotic Systems
-  
-My research focuses on multi-agent reinforcement learning and decision-making in complex, dynamic, and uncertain environments. In addition to technical research, I am highly interested in the potential of combining large language models (LLMs) with robotic systems, especially in enhancing semantic understanding and decision-making in real-world environments. My recent work involves leveraging semantic information to guide agents in navigation and exploration, while using reinforcement learning to improve the robustness and efficiency of decision-making algorithms. 
+My D.Phil. research studies cooperation and coordination in multi-agent systems, with a focus on <b>ad hoc teamwork</b>: the problem of designing an autonomous agent that can collaborate effectively with previously unseen teammates, such as agents developed by other organisations or human partners, without any prior coordination, shared conventions, or joint training. Achieving this requires an agent to rapidly infer the capabilities and intentions of its teammates from limited interaction and to adapt its own behaviour accordingly. My current interests include:
+
+* Ad hoc teamwork and coordination with unseen teammates
+* Multi-agent reinforcement learning, including safe MARL under chance constraints
+* Game-theoretic modelling of strategic interaction among agents
+* Graph neural networks for multi-agent systems
+* Interaction-aware prediction and decision-making for autonomous driving (previous work)
+
+Previously, my work centred on decision-making for autonomous vehicles in dense, interactive traffic, combining game-theoretic driver modelling, trajectory and intention prediction, and deep reinforcement learning.
 
 Contact
 ===
-I am open to collaborating with people to explore the possibilities of reinforcement learning and sequential decision making  in various fields. If you find my work interesting, please feel free to contact me via email: zhou.xiao.hit@gmail.com.
+I am always happy to discuss research and potential collaborations on multi-agent systems and sequential decision-making. Please feel free to contact me via email: zhou.xiao.hit@gmail.com (or xiao.zhou@eng.ox.ac.uk).
 
 News
 ===
-* [2024.12] 🎉🎉 I received the <a href="https://nccr-automation.ch/research-fellowship">NCCR Automation Fellowship</a> 2025!
-* [2024.09] 🎉🎉 Our paper "Game-Theoretic Driver Modeling and Decision-Making for Autonomous Driving with Temporal-Spatial Attention-Based Deep Q-Learning" has been accepted by <b>IEEE TRANSACTIONS ON INTELLIGENT VEHICLES</b>!
-* [2024.07] 🎉🎉 I attended <a href="https://sites.google.com/view/marl-school2024/home">the EPFL-ETHZ MARL Summer School</a> at Lausanne, Switzerland!
-* [2024.07] 🎉🎉 Our paper "Integrated Intention Prediction and Decision-Making with Spectrum Attention Net and Proximal Policy Optimization" has been accepted by <b>ITSC 2024</b>!
-* [2024.06] 🎉🎉 Our paper "Reward-Driven Automated Curriculum Learning for Interaction-Aware Self-Driving at Unsignalized Intersections" has been accepted by <b>IROS 2024</b>!
+* [06/2026] 🎉🎉 Our paper "SocialTraj: Two-Stage Socially-Aware Trajectory Prediction for Autonomous Driving via Conditional Diffusion Model" has been accepted by <b>IEEE Transactions on Vehicular Technology</b>!
+* [06/2026] 🎉🎉 Our paper "Behavioral Uncertainty-Aware Attention Allocation via VLMs for Interactive Autonomous Driving" has been accepted by <b>IEEE Transactions on Vehicular Technology</b>!
+* [10/2025] 🎓 I started my D.Phil. at the <a href="https://ori.ox.ac.uk/">Oxford Robotics Institute</a>, University of Oxford, supervised by <a href="https://ori.ox.ac.uk/people/nick-hawes">Prof. Nick Hawes</a>.
+* [03/2025] I joined the <a href="https://www.epfl.ch/labs/sycamore/">Sycamore Lab</a> at EPFL to conduct my master's thesis research with <a href="https://www.epfl.ch/labs/sycamore/professor-maryam-kamgarpour">Prof. Maryam Kamgarpour</a>.
+* [12/2024] 🎉🎉 I received the <a href="https://nccr-automation.ch/research-fellowship">NCCR Automation Fellowship</a> 2025!
+* [09/2024] 🎉🎉 Our paper "Game-Theoretic Driver Modeling and Decision-Making for Autonomous Driving with Temporal-Spatial Attention-Based Deep Q-Learning" has been accepted by <b>IEEE Transactions on Intelligent Vehicles</b>!
+
+<details>
+  <summary>Earlier news</summary>
+  <ul>
+    <li>[07/2024] I attended <a href="https://sites.google.com/view/marl-school2024/home">the EPFL-ETHZ MARL Summer School</a> in Lausanne, Switzerland!</li>
+    <li>[07/2024] 🎉🎉 Our paper "Integrated Intention Prediction and Decision-Making with Spectrum Attention Net and Proximal Policy Optimization" has been accepted by <b>ITSC 2024</b> as an oral presentation!</li>
+    <li>[06/2024] 🎉🎉 Our paper "Reward-Driven Automated Curriculum Learning for Interaction-Aware Self-Driving at Unsignalized Intersections" has been accepted by <b>IROS 2024</b>!</li>
+  </ul>
+</details>
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BxZ-CKuO9gVlhQ-hdBov2xZ1gMK9V9XKIhFKWr1q-nA&cl=ffffff&w=a"></script>
-
