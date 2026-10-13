@@ -24,7 +24,12 @@ author:
   hoveravatar      : "XiaoZHOU0.jpg"
   avatar           : "XiaoZHOU1.jpg"
   name             : "Xiao ZHOU"
-  bio              : "D.Phil. student at Oxford Robotics Institute. Multi-Agent Systems, Ad Hoc Teamwork, MARL, Game Theory"
+  bio              : "D.Phil. Student<br>Oxford Robotics Institute"
+  keywords:
+    - Multi-Agent Systems
+    - Ad Hoc Teamwork
+    - MARL
+    - Game Theory
   location         : "Oxford, UK"
   employer         : "University of Oxford"
   uri              : https://simonwicks1.github.io/
